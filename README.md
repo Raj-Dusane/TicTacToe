@@ -1,0 +1,1 @@
+This project is a modern rendition of the timeless Tic-Tac-Toe game, developed using ReactJS. It offers a simple yet interactive and visually appealing interface for players. It includes move validation, win condition detection, a locking mechanism to prevent cheating after the win condition, and a reset button to restart the gameplay.
